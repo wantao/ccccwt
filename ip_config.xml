@@ -1,0 +1,13 @@
+<root>
+  <str_key value="sanguoserver" />
+  <ip_list>
+
+      <item id="1" ip="210.66.186.86" />
+      <item id="2" ip="52.68.118.68" />
+      <item id="3" ip="52.68.186.155" />
+
+  </ip_list>
+    
+  	
+</root>
+
